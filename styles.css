@@ -1,0 +1,71 @@
+.big-box {
+    position: absolute;
+    text-align: center;
+
+    margin-left: 5%;
+    margin-top: 1.5%;
+
+    width: 90%;
+    height: 90%;
+    background-color: #D4CEAF;
+    
+    border-radius: 3%;
+}
+
+.mini-box {
+    position: relative;
+    width: 800px;
+    height: 600px;
+    background-color: #D9D9D9;
+    margin-right: 200px;
+
+    font-size: 30px;
+    padding-top: 1.2%;
+
+    top: 112px;
+    left: 600px;
+
+    border-radius: 3%;
+    
+}
+
+.conteiner-1 {
+    position: relative;
+    
+    width: 270px;
+    height: 270px;
+
+    bottom: 500px;
+    left: 200px;
+
+    background-color: #FFFDEE;
+
+    border-radius: 3%;
+}
+
+.conteiner-2 {
+    position: relative;
+    
+    width: 270px;
+    height: 270px;
+
+    bottom: 450px;
+    left: 200px;
+
+    background-color: #FFFDEE;
+
+    border-radius: 3%;
+    overflow: hidden;
+}
+
+.pic {
+    position: absolute;
+    width: 80%;
+    height: 80%;
+
+    top: 30px;
+    right: 30px;
+
+    border-radius: 3%;
+
+}
