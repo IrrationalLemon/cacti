@@ -5,17 +5,17 @@
     margin-left: 5%;
     margin-top: 1.5%;
 
-    width: 90%;
-    height: 90%;
+    width: calc(100%-20px);
+    height: calc(100%-20px);
     background-color: #D4CEAF;
     
-    border-radius: 3%;
+    border-radius: 20px;
 }
 
 .mini-box {
     position: relative;
-    width: 800px;
-    height: 600px;
+    width: calc(100%-50px);
+    height: calc(100%-30px);
     background-color: #D9D9D9;
     margin-right: 200px;
 
@@ -25,7 +25,7 @@
     top: 112px;
     left: 600px;
 
-    border-radius: 3%;
+    border-radius: 20px;
     
 }
 
